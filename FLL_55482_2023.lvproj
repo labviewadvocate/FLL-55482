@@ -237,9 +237,6 @@
 			</Item>
 			<Item Name="Gyro Acc Dec Back Dis.vi" Type="VI" URL="../Gyro Acc Dec Back Dis.vi"/>
 			<Item Name="Gyro Acc Dec Fwd C1Stop.vi" Type="VI" URL="../Gyro Acc Dec Fwd C1Stop.vi"/>
-			<Item Name="Stall Detection A lower.vi" Type="VI" URL="../Stall Detection A lower.vi"/>
-			<Item Name="Stall Detection A.vi" Type="VI" URL="../Stall Detection A.vi"/>
-			<Item Name="Stall Detection D.vi" Type="VI" URL="../Stall Detection D.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
